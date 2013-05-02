@@ -21,8 +21,8 @@
 * Horizontal center for block elements
 * Justify text
 * RTL
-* …
-* Simple layout
+
+#####Simple layout
 * Grid system
 * Float
 * Gap definition
