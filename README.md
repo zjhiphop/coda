@@ -27,7 +27,6 @@
 * Float
 * Gap definition
 * Text with no wrap
-* …
 
 ##### Standard elements with a single structure
 * Title
