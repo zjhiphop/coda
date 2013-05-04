@@ -1,0 +1,17 @@
+{
+  "name": "CODA", 
+  "version": "0.0.1", 
+  "repository": {
+      "type": "git"
+      , "url": "https://github.com/etnm/coda.git"
+  },
+  "dependencies": {
+    "grunt":"0.3.17",
+    "grunt-recess": "0.3.1",
+    "grunt-img": "0.1.4",
+    "grunt-contrib": "0.2.0"
+  },
+  "engines": {
+      "node": ">=0.6.0"
+  }
+}
