@@ -3,13 +3,15 @@
 
 # Windows
 Thumbs.db
+# Windows media center
+ehthumbs.db
 
 *.log
 dist
 node_modules
 
 # IDE
-#jetbrains idea|webStorm
+#jetbrains idea| webStorm
 .idea
 #Microsoft Visual Studio
 .settings
@@ -17,3 +19,7 @@ node_modules
 #eclipse
 .buildpath
 .project
+
+#sublime
+*.sublime-project
+*.sublime-workspace
