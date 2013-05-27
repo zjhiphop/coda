@@ -1,4 +1,25 @@
+# OS X
 .DS_Store
+
+# Windows
+Thumbs.db
+# Windows media center
+ehthumbs.db
+
 *.log
 dist
 node_modules
+
+# IDE
+#jetbrains idea| webStorm
+.idea
+#Microsoft Visual Studio
+.settings
+
+#eclipse
+.buildpath
+.project
+
+#sublime
+*.sublime-project
+*.sublime-workspace
